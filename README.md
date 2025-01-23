@@ -17,7 +17,7 @@ A prime number is a number greater than 1 that has no divisors other than 1 and 
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/HamzaGurbuz/PrimeNumbers
+   git clone https://github.com/HamzaGurbuz/PrimeNumbers.git
 
 2. Navigate to the project directory:
    ```bash
